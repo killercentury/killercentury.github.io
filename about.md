@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Kira Cheung (formal name as Decheng Zhang). I'm a software engineer who loves all sort of technologies, such as functional reactive programming, distributed systems, continuous delivery and so on.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I am currently working at Ausmed Education which provides a modern online education platform for nurses. I am helping to re-architect the next generation of platform based on microservices architecture. I also build various services from frontend to backend, while very emphasize on engineering techniques to enable continous delivery. Previously, I worked in HSBC for some high volume transaction banking systems.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I personally take part in a few open source projects such as [Docker](https://github.com/docker/docker) and [Terraform](https://github.com/hashicorp/terraform) and like to share some code examples on Github. My Github profile can be found here https://github.com/killercentury
+
+I often tweet about various technologies, thinking and trends on Twitter. Please follow me on https://twitter.com/killercentury
+
+My full profectional details can be found via my Linkedin profile here https://au.linkedin.com/in/kirazhang
