@@ -10,6 +10,6 @@ I am currently working at Ausmed Education which provides a modern online educat
 
 I personally take part in a few open source projects such as [Docker](https://github.com/docker/docker) and [Terraform](https://github.com/hashicorp/terraform) and like to share some code examples on Github. My Github profile can be found here https://github.com/killercentury
 
-I often tweet about various technologies, thinking and trends on Twitter. Please follow me on https://twitter.com/killercentury
+I often tweet about various technologies, thinking and trends on Twitter. Please follow me on <https://twitter.com/killercentury>
 
-My full profectional details can be found via my Linkedin profile here https://au.linkedin.com/in/kirazhang
+My full profectional details can be found via my Linkedin profile here <https://au.linkedin.com/in/kirazhang>
