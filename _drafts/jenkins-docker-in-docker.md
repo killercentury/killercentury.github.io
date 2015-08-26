@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Jenkins Docker in Docker"
+date:   2015-09-01 08:00:00
+---
+Since I started to play around Docker from last year, I have been attracted by the convenience it brings to the entire development and deployment workflow. A few months ago, I was going to deploy a new Jenkins server into our new infrastructure to handle a growing number of jobs for our projects. So I started to look at the [offical Jenkins repo](https://hub.docker.com/_/jenkins/) on Docker Hub, which provides a fully functional Jenkins server by running a simple docker run command. As many other official Docker images, it is trusted and well configured. But a question comes up immdiately is that how we should build our applications. Should we install everything we need inside the Jenkins server? This could mean that we need to install all the build tools and relevant runtimes manually. Obviously, I believe many of us won't be interested to do it manually. So how about build a new Jenkins Docker image based on the official one and include all the things we need in the Dockerfile? It looks OK at the beginning since it follows the infrastructure-as-code principle. But every time you need to add or update a build tool, you need to rebuild the Docker image and redeploy it.
